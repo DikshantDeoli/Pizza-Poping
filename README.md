@@ -1,13 +1,13 @@
 # Pizza-Poping
 
 <center><h1>PLAN</h1></center>
-[+] Create directory structure
-[+] Create a NPM project and install all dependancies
-    - Dependancies
-        - express
-        - ejs express-ejs-layouts
-    - Dev dependancies
-        - nodemon
+[+] Create directory structure<br>
+[+] Create a NPM project and install all dependancies<br>
+    - Dependancies<br>
+        - express<br>
+        - ejs express-ejs-layouts<br>
+    - Dev dependancies<br>
+        - nodemon<br>
 [+] Create Express server - Create a server.js file
 [+] Git setup and first commit
 [+] Install Laravel Mix  to compile resourses to  public 
